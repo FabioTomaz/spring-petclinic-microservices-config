@@ -2,7 +2,7 @@ zuul:
   prefix: /api
   ignoredServices: '*'
   routes:
-    vets-service: /vet/**
+    filemetadata-service: /filemetadata/**
     visits-service: /visit/**
     customers-service: /customer/**
     api-gateway: /gateway/**
