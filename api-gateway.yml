@@ -3,7 +3,7 @@ zuul:
   ignoredServices: '*'
   routes:
     filemetadata-service: /filemetadata/**
-    visits-service: /visit/**
+    storage-service: /storage/**
     customers-service: /customer/**
     api-gateway: /gateway/**
 
