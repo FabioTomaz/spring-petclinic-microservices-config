@@ -4,7 +4,6 @@ zuul:
   routes:
     filemetadata-service: /filemetadata/**
     storage-service: /storage/**
-    customers-service: /customer/**
     api-gateway: /gateway/**
 
 server:
