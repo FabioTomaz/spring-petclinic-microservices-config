@@ -17,8 +17,6 @@ spring:
       enabled: true
       max-file-size: 1000MB
       max-request-size: 1000MB
-server:
-  port: 8082
 eureka:
   client:
     serviceUrl:
